@@ -1,4 +1,4 @@
-a=("chan","jhon")
+a=("chan","good")
 x=list(a)
 x[1]="man"
 a=x
